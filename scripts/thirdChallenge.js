@@ -4,7 +4,7 @@
 
 var pressMyButton = document.getElementById("press");
 
-document.body.addEventListener('keypress',function(e){
+document.body.addEventListener('keypress', (e) => {
 
 var x = e.keyCode;
 var y = String.fromCharCode(x);

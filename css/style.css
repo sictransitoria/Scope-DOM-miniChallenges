@@ -31,13 +31,13 @@ a {
 	font-size: 30px;
 	font-weight: 100;
 	text-decoration: none;
-	margin: 78px;
+	margin: 70px;
 
 }
 
 a:hover {
-	opacity: .5;
-	transition: .3s;
+	opacity: .4;
+	transition: .5s;
 
 }
 
